@@ -54,6 +54,6 @@ Cửa hàng bán xe máy HonDa cung cấp các loại xe thuộc thương hiệu
 - Khó khăn trong việc lưu trữ và tìm kiếm thông tin khách hàng lớn.
 - Phần mềm quản lý có sẵn ít khi phù hợp tuyệt đối với nhu cầu của nhà quản lý.
 
-**Hệ thống mới:**
+### Hệ thống mới:
 - Giảm bớt công việc của nhân viên.
 - Dễ dàng quản lý cửa hàng hơn cho nhà quản lý.
